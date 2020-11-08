@@ -59,7 +59,7 @@ namespace  AssetSample
             return tx.Id.ToString();
         }
         /// <summary>
-        /// Generation Asset 
+        /// Generation NFT 
         /// </summary>
         /// <param name="client"></param>
         /// <returns>tx.Id</returns>
